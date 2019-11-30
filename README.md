@@ -6,5 +6,12 @@ Poniendo varias líneas, con tildes y con lo que queramos.
 
 liada
 
+voy a provocar conflicto
+
 Más líneas.
-SKLEFIUWIEF
+
+cambios mañaneros
+
+mas todavia
+
+muchas lineas
