@@ -3,5 +3,12 @@ Y vamos a editar este fichero.
 
 Poniendo varias líneas, con tildes y con lo que queramos.
 
+voy a provocar conflicto
+
 Más líneas.
-SKLEFIUWIEF
+
+cambios mañaneros
+
+mas todavia
+
+muchas lineas
